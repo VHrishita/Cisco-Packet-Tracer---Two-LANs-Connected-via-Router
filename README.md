@@ -48,13 +48,5 @@ This project demonstrates how to interconnect two separate Local Area Networks (
 - `Two Lans.pkt`: Cisco Packet Tracer file demonstrating the setup.
 
 ## 📸 Preview
+<img width="1457" height="599" alt="image" src="https://github.com/user-attachments/assets/8db52c1e-1ff6-41b1-8da1-eb72e25f81fe" />
 
-_A screenshot or diagram can be added here to visualize the topology._
-
-## 💡 Future Enhancements
-
-- Add DHCP server for automatic IP addressing.
-- Implement Access Control Lists (ACLs) for traffic filtering.
-- Simulate internet access through an ISP router.
-
----
