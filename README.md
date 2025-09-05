@@ -19,12 +19,12 @@ This project demonstrates how to interconnect two separate Local Area Networks (
 - **LAN 1**:
   - Switch
   - Multiple PCs
-  - IP range: `192.168.1.0/24`
+  - IP range: `10.0.0.0`
 
 - **LAN 2**:
   - Switch
   - Multiple PCs
-  - IP range: `192.168.2.0/24`
+  - IP range: `192.168.1.0`
 
 - **Router**:
   - Interfaces configured for each LAN
